@@ -1,0 +1,23 @@
+Cloud computing provides developers with the ability to focus on what matters most and avoid infrastructure procurement, maintenance, and capacity planning, or undifferentiated heavy lifting.
+
+With the growing popularity of cloud computing, several different service models have emerged to help meet specific needs of different users. 
+Each type of cloud service provides you with different levels of abstraction, control, flexibility, and management. 
+Understanding the differences between Infrastructure as a Service (IaaS), Platform as a Service (PaaS), 
+and Software as a Service (SaaS) can help you decide what service type is right for your needs as a developer.
+
+1).Infrastructure as a Service (IaaS)
+Infrastructure as a Service (IaaS) contains the basic building blocks for cloud IT, 
+and typically provides access to networking features, computers (virtual or on dedicated hardware), 
+and data storage space. IaaS provides you with the highest level of flexibility and management control over 
+your IT resources and is most like existing IT resources that many developers are familiar with today.
+
+2).Platform as a Service (PaaS)
+Platform as a Service (PaaS) removes the need for you to manage the underlying infrastructure 
+(usually hardware and operating systems) and allows you to focus on the deployment and management of your applications. 
+This helps you be more efficient because you don’t need to worry about resource procurement, 
+capacity planning, software maintenance, patching, or any of the other undifferentiated heavy lifting involved in running your application
+
+3).Software as a Service (SaaS)
+Software as a Service (SaaS) provides you with a completed product that is run and managed by the service provider. In most cases, people referring to SaaS are referring to end-user applications. 
+With a SaaS offering you do not have to think about how the service is maintained or how the underlying infrastructure is managed; you only need to think about how you will use that piece of software. 
+A common example of a SaaS application is web-based email which you can use to send and receive email without having to manage feature additions to the email product or maintain the servers and operating systems that the email program is running on

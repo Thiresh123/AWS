@@ -1,0 +1,13 @@
+Databases: 
+Amazon RDS (Relational Database Service): Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, 
+and scale a relational database in the cloud. It provides cost-efficient and resizable capacity 
+while managing time-consuming database administration tasks, freeing you up to focus on your applications and business. 
+You can find Amazon RDS is also available on several database instance types – optimized for memory, performance, or I/O.  
+Amazon RDS provides you with six familiar database engines to choose from, including Amazon Aurora, PostgreSQL, MySQL, MariaDB, Oracle, and Microsoft SQL Server
+
+Amazon DynamoDB (Non-Relational Database): Amazon DynamoDB is a fast and flexible NoSQL database service for all applications that need consistent, single-digit millisecond latency at any scale. It is a fully managed database and supports both document and key-value data models. When you create a database table that can store and retrieve any amount of data you can simply use Amazon DynamoDB that will serve any level of requested traffic. Its flexible data model and reliable performance make it a great fit for mobile, web, gaming, Internet of Things (IoT), and many other applications. DynamoDB provides many features like  
+
+1)built-in security
+2)backups
+3)automated multi-region replication
+4)in-memory caching

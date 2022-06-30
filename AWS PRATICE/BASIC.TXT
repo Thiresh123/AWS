@@ -1,0 +1,15 @@
+What are the Important AWS Cloud Services?
+
+
+In 2006, Amazon Web Services, 
+(AWS) began offering IT services to the public in the form of web services commonly known as cloud computing. 
+One of the key benefits of cloud computing is that it replaces upfront capital infrastructure expenses with an on-demand low-cost pay-as-you-go model. 
+AWS made businesses no longer need to plan for and procure IT infrastructures weeks or months in advance. 
+Instead, they can instantly select any number of servers and other technologies needed for them and it is delivered to them in minutes. 
+Today, AWS provides a highly reliable, scalable, and low-cost infrastructure platform in the cloud that powers hundreds of thousands of businesses in more than 190 countries around the world. 
+AWS services are typically grouped into different categories like compute, networking, storage, applications, databases, and analytics.
+
+Important Cloud Services provided by AWS:
+Compute
+AWS Lambda
+AWS Elastic Beanstalk
